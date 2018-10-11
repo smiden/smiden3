@@ -1,0 +1,4 @@
+@media screen ( max-width: 920px;){ 
+	.header__title p {font-size: 45px;}
+	#header {background: black;}
+}
